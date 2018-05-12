@@ -1,0 +1,30 @@
+_repo: Fishes-Flowers-and-Fire-as-Elements-and-Deities-in-the-Phallic-Faiths-and-Worship-of-the-Anci__37713
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37713-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2011-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37713'
+  lccn: '18001775'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Phallicism'
+title: Fishes, Flowers, & Fire as Elements and Deities in the Phallic Faiths & Worship
+  of the Ancient Religions of Greece, Babylon, Rome, India, &c.
+url: http://www.gutenberg.org/ebooks/37713
